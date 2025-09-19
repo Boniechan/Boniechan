@@ -14,9 +14,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, PHP, C#, Solidity (learning)  
-- **Databases:** MySQL, PostgreSQL, Firebase  
-- **Frameworks & Tools:** Node.js, Express.js, Laravel, React (learning), Git/GitHub  
+- **Languages:** JavaScript, PHP, C#, Rust (learning)  
+- **Databases:** MySQL,Firebase  
+- **Frameworks & Tools:** Node.js, Express.js, Laravel(Learning),React, Git/GitHub  
 
 ---
 
