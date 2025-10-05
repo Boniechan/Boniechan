@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Marvin Bonalos  
 
 🎓 4th Year BSIT Student at **University of Mindanao – Tagum Campus**  
-💻 **Web Backend Developer**  
-🔗 Currently learning **Smart Contract Development** and **Client-Side Blockchain Development**  
-
+💻 **Web Backend Developer and Client-Side Blockchain Developer**  
+🔗 Currently learning **Smart Contract Development**
 ---
 
 ## 🚀 About Me
