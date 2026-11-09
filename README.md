@@ -6,16 +6,16 @@
 ---
 
 ## 🚀 About Me
-- Passionate about building scalable and efficient web applications.  
+- Passionate about building scalable and efficient web, mobile, and desktop applications.  
 - Exploring blockchain technologies to combine **backend expertise** with **decentralized applications (dApps)**.  
 - Always eager to learn and collaborate on innovative projects.  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, PHP, C#, Rust (learning),Dart
-- **Databases:** MySQL,Firebase  
-- **Frameworks & Tools:** Node.js, Express.js, Laravel(Learning),React, Git/GitHub  
+- **Languages:** JavaScript, PHP, C#, Rust (learning),Dart, C#
+- **Databases:** MySQL,Firebase,PostreSql(Supabase) 
+- **Frameworks & Tools:** Node.js, Express.js, Laravel(Learning),React, Git/GitHub, Web3.js. Asp.net, WPF
 
 ---
 
