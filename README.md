@@ -149,8 +149,6 @@ These cards load live public data for [@Boniechan](https://github.com/Boniechan)
 
 <div align="center">
 
-<a href="https://github.com/Boniechan"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Boniechan&show_icons=true&hide_border=true&bg_color=09090B&title_color=818CF8&text_color=D4D4D8&icon_color=818CF8" alt="GitHub profile statistics for Boniechan" /></a>
-<a href="https://github.com/Boniechan"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boniechan&layout=compact&hide_border=true&bg_color=09090B&title_color=818CF8&text_color=D4D4D8" alt="Most-used programming languages for Boniechan" /></a>
 
 <br />
 
