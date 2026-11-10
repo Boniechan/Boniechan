@@ -104,7 +104,7 @@
   <g transform="translate(764 143)">
     <animateTransform attributeName="transform" type="translate" values="764 143;764 136;764 143" dur="2.55s" begin="-0.56s" repeatCount="indefinite" />
     <rect x="29" y="0" width="48" height="48" rx="14" fill="#111827" />
-    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#fff">EXPO</text>
+    <path d="M40 32 51 9q1-2 3-2h1q2 0 3 2l10 23h-6l-8-17-8 17z" fill="#f7f7f7" />
     <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Expo</text>
   </g>
   <g transform="translate(8 243)">
