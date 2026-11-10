@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Marvin+Bonalos;Full-Stack+Developer;Building+Web%2C+Mobile+%26+Desktop+Apps;Exploring+Web3+%26+Solana" alt="Typing introduction animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Marvin+Bonalos+%F0%9F%91%8B;Full-Stack+Developer;Building+Web%2C+Mobile+%26+Desktop+Apps;Exploring+Web3+%26+Solana" alt="Typing introduction animation" />
 
 ### Full-Stack Developer · BSIT Student · Web3 Explorer
 
@@ -45,9 +45,9 @@ I'm a fourth year **BS Information Technology student** at the University of Min
 
 <div align="center">
 
-### A little motion from my GitHub activity
+### VS Code mode
 
-<img src="https://raw.githubusercontent.com/Boniechan/Boniechan/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+<img src="./assets/vscode-fall.svg" width="280" alt="Animated VS Code icon falling through code" />
 
 <br />
 
