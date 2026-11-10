@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Marvin+Bonalos+%F0%9F%91%8B;Full-Stack+Developer;Building+Web%2C+Mobile+%26+Desktop+Apps;Exploring+Web3+%26+Solana" alt="Typing introduction animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Marvin+Bonalos;Full-Stack+Developer;Building+Web%2C+Mobile+%26+Desktop+Apps;Exploring+Web3+%26+Solana" alt="Typing introduction animation" />
 
 ### Full-Stack Developer · BSIT Student · Web3 Explorer
 
