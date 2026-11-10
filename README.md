@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Marvin+Bonalos+%F0%9F%91%8B;Full-Stack+Developer;Building+Web%2C+Mobile+%26+Desktop+Apps;Exploring+Web3+%26+Solana" alt="Typing introduction animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Marvin+Bonalos;Full-Stack+Developer;Building+Web%2C+Mobile+%26+Desktop+Apps;Exploring+Web3+%26+Solana" alt="Typing introduction animation" />
 
 ### Full-Stack Developer · BSIT Student · Web3 Explorer
 
@@ -16,26 +16,30 @@ Building practical web, mobile, and desktop experiences — from polished interf
 
 ### About me
 
-I'm a fourth year **BS Information Technology student** at the University of Mindanao – Tagum Campus, based in Tagum City, Philippines. I like turning ideas into useful software and learning by building across different platforms.
-
-- 🎓 Studying Information Technology at the University of Mindanao – Tagum Campus
-- 💻 Interested in full stack, backend, mobile, and **desktop app development**
-- 🔗 Exploring Web3, Solana smart contracts, and Rust
-- 🌱 Always learning and open to collaborating on interesting projects
+<table>
+  <tr>
+    <td>
+      <strong>Full-Stack Developer · BSIT Student</strong><br /><br />
+      I'm a fourth year BS Information Technology student at the University of Mindanao – Tagum Campus, based in Tagum City, Philippines. I like turning ideas into useful software and learning by building across different platforms.<br /><br />
+      <strong>Interests</strong><br />
+      Full stack and backend development · Mobile apps · Desktop app development · Web3 and Solana<br /><br />
+      <strong>Currently learning</strong><br />
+      Solana smart contracts and Rust
+    </td>
+  </tr>
+</table>
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,dart,rust&theme=dark" alt="JavaScript, TypeScript, C sharp, Dart, and Rust icons" />
-</p>
-
 <sub>JavaScript · TypeScript · C# · Dart · Rust (learning)</sub>
 
-### Skills & tools
+### Floating skill logos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,flutter,dotnet,solana,firebase,supabase,postgres,mysql,git,github&theme=dark" alt="React, Node.js, Express, Tailwind CSS, Flutter, .NET, Solana, Firebase, Supabase, PostgreSQL, MySQL, Git, and GitHub icons" />
+  <img src="./assets/skills-float.svg" alt="Floating logos for JavaScript, TypeScript, C sharp, Dart, Rust, React, Node.js, Flutter, Solana, and .NET" />
 </p>
+
+### Tools & technologies
 
 <sub>React · React Native · Node.js · Express · REST APIs · Expo · Flutter · WPF · .NET · Solana · Firebase · Supabase · PostgreSQL · MySQL · Git</sub>
 
