@@ -1,190 +1,200 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="380" viewBox="0 0 920 380" role="img" aria-labelledby="title">
-  <title id="title">Floating animated icons for all portfolio skills</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="450" viewBox="0 0 880 450" role="img" aria-labelledby="title">
+  <title id="title">Animated floating icons for the complete skill set listed in Marvin's portfolio</title>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#111827" /><stop offset="1" stop-color="#1e1b4b" />
+      <stop stop-color="#09090b" /><stop offset="1" stop-color="#1e1b4b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#6366f1" /><stop offset="1" stop-color="#a78bfa" />
     </linearGradient>
   </defs>
-  <rect width="920" height="380" rx="22" fill="url(#panel)" />
-  <text x="24" y="28" font-family="monospace" font-size="11" fill="#8190a8" opacity=".65">marvin.skills</text>
-  <g transform="translate(12 16)">
-    <animateTransform attributeName="transform" type="translate" values="12 16;12 8;12 16" dur="2.50s" begin="0.00s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#f7df1e" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#202020">JS</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">JavaScript</text>
+  <rect width="880" height="450" rx="22" fill="url(#panel)" stroke="#27272a" />
+  <text x="28" y="26" fill="#a5b4fc" font-family="monospace" font-size="11">SKILLS / ALL TECHNOLOGIES</text>
+  <path d="M28 34h824" stroke="url(#accent)" stroke-opacity=".55" />
+  <g transform="translate(8 43)">
+    <animateTransform attributeName="transform" type="translate" values="8 43;8 36;8 43" dur="2.40s" begin="0.00s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#f7df1e" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#202020">JS</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">JavaScript</text>
   </g>
-  <g transform="translate(103 16)">
-    <animateTransform attributeName="transform" type="translate" values="103 16;103 8;103 16" dur="2.67s" begin="-0.31s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#3178c6" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">TS</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">TypeScript</text>
+  <g transform="translate(116 43)">
+    <animateTransform attributeName="transform" type="translate" values="116 43;116 36;116 43" dur="2.57s" begin="-0.04s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#3178c6" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">TS</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">TypeScript</text>
   </g>
-  <g transform="translate(194 16)">
-    <animateTransform attributeName="transform" type="translate" values="194 16;194 8;194 16" dur="2.84s" begin="-0.62s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#61dafb" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#13212a">RE</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">React.js</text>
+  <g transform="translate(224 43)">
+    <animateTransform attributeName="transform" type="translate" values="224 43;224 36;224 43" dur="2.74s" begin="-0.07s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#61dafb" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#13212a">RE</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">React.js</text>
   </g>
-  <g transform="translate(285 16)">
-    <animateTransform attributeName="transform" type="translate" values="285 16;285 8;285 16" dur="3.01s" begin="-0.93s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#087ea4" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">RN</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">React Native</text>
+  <g transform="translate(332 43)">
+    <animateTransform attributeName="transform" type="translate" values="332 43;332 36;332 43" dur="2.91s" begin="-0.11s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#087ea4" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">RN</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">React Native</text>
   </g>
-  <g transform="translate(376 16)">
-    <animateTransform attributeName="transform" type="translate" values="376 16;376 8;376 16" dur="3.18s" begin="-1.24s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#e34f26" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#ffffff">HTML</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">HTML</text>
+  <g transform="translate(440 43)">
+    <animateTransform attributeName="transform" type="translate" values="440 43;440 36;440 43" dur="3.08s" begin="-0.15s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#e34f26" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#fff">HTML</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">HTML</text>
   </g>
-  <g transform="translate(467 16)">
-    <animateTransform attributeName="transform" type="translate" values="467 16;467 8;467 16" dur="2.50s" begin="-1.55s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#1572b6" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff">CSS</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">CSS</text>
+  <g transform="translate(548 43)">
+    <animateTransform attributeName="transform" type="translate" values="548 43;548 36;548 43" dur="2.45s" begin="-0.18s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#1572b6" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">CSS</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">CSS</text>
   </g>
-  <g transform="translate(558 16)">
-    <animateTransform attributeName="transform" type="translate" values="558 16;558 8;558 16" dur="2.67s" begin="-1.86s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#06b6d4" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#03202a">TW</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Tailwind CSS</text>
+  <g transform="translate(656 43)">
+    <animateTransform attributeName="transform" type="translate" values="656 43;656 36;656 43" dur="2.62s" begin="-0.22s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#06b6d4" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#03202a">TW</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Tailwind CSS</text>
   </g>
-  <g transform="translate(649 16)">
-    <animateTransform attributeName="transform" type="translate" values="649 16;649 8;649 16" dur="2.84s" begin="0.00s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#512bd4" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff">WPF</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">WPF</text>
+  <g transform="translate(764 43)">
+    <animateTransform attributeName="transform" type="translate" values="764 43;764 36;764 43" dur="2.79s" begin="-0.26s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#512bd4" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">WPF</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">WPF</text>
   </g>
-  <g transform="translate(740 16)">
-    <animateTransform attributeName="transform" type="translate" values="740 16;740 8;740 16" dur="3.01s" begin="-0.31s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#646cff" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">V</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Vite</text>
+  <g transform="translate(8 143)">
+    <animateTransform attributeName="transform" type="translate" values="8 143;8 136;8 143" dur="2.96s" begin="-0.30s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#646cff" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">V</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Vite</text>
   </g>
-  <g transform="translate(831 16)">
-    <animateTransform attributeName="transform" type="translate" values="831 16;831 8;831 16" dur="3.18s" begin="-0.62s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#539e43" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">N</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Node.js</text>
+  <g transform="translate(116 143)">
+    <animateTransform attributeName="transform" type="translate" values="116 143;116 136;116 143" dur="3.13s" begin="-0.33s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#539e43" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">N</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Node.js</text>
   </g>
-  <g transform="translate(12 132)">
-    <animateTransform attributeName="transform" type="translate" values="12 132;12 124;12 132" dur="2.50s" begin="-0.93s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#404040" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">EX</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Express.js</text>
+  <g transform="translate(224 143)">
+    <animateTransform attributeName="transform" type="translate" values="224 143;224 136;224 143" dur="2.50s" begin="-0.37s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#404040" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">EX</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Express.js</text>
   </g>
-  <g transform="translate(103 132)">
-    <animateTransform attributeName="transform" type="translate" values="103 132;103 124;103 132" dur="2.67s" begin="-1.24s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#5b6ee1" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff">API</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">REST APIs</text>
+  <g transform="translate(332 143)">
+    <animateTransform attributeName="transform" type="translate" values="332 143;332 136;332 143" dur="2.67s" begin="-0.41s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#5b6ee1" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">API</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">REST APIs</text>
   </g>
-  <g transform="translate(194 132)">
-    <animateTransform attributeName="transform" type="translate" values="194 132;194 124;194 132" dur="2.84s" begin="-1.55s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#ffca28" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#222222">FB</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Firebase</text>
+  <g transform="translate(440 143)">
+    <animateTransform attributeName="transform" type="translate" values="440 143;440 136;440 143" dur="2.84s" begin="-0.44s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#ffca28" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#222">FB</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Firebase</text>
   </g>
-  <g transform="translate(285 132)">
-    <animateTransform attributeName="transform" type="translate" values="285 132;285 124;285 132" dur="3.01s" begin="-1.86s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#3ecf8e" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#09231b">SB</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Supabase</text>
+  <g transform="translate(548 143)">
+    <animateTransform attributeName="transform" type="translate" values="548 143;548 136;548 143" dur="3.01s" begin="-0.48s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#3ecf8e" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#09231b">SB</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Supabase</text>
   </g>
-  <g transform="translate(376 132)">
-    <animateTransform attributeName="transform" type="translate" values="376 132;376 124;376 132" dur="3.18s" begin="0.00s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#68217a" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">C#</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">C# .NET Core</text>
+  <g transform="translate(656 143)">
+    <animateTransform attributeName="transform" type="translate" values="656 143;656 136;656 143" dur="3.18s" begin="-0.52s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#68217a" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">C#</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">.NET Core</text>
   </g>
-  <g transform="translate(467 132)">
-    <animateTransform attributeName="transform" type="translate" values="467 132;467 124;467 132" dur="2.50s" begin="-0.31s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#111827" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#ffffff">EXPO</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Expo</text>
+  <g transform="translate(764 143)">
+    <animateTransform attributeName="transform" type="translate" values="764 143;764 136;764 143" dur="2.55s" begin="-0.56s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#111827" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#fff">EXPO</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Expo</text>
   </g>
-  <g transform="translate(558 132)">
-    <animateTransform attributeName="transform" type="translate" values="558 132;558 124;558 132" dur="2.67s" begin="-0.62s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#42a5f5" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">FL</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Flutter</text>
+  <g transform="translate(8 243)">
+    <animateTransform attributeName="transform" type="translate" values="8 243;8 236;8 243" dur="2.72s" begin="-0.59s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#42a5f5" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">FL</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Flutter</text>
   </g>
-  <g transform="translate(649 132)">
-    <animateTransform attributeName="transform" type="translate" values="649 132;649 124;649 132" dur="2.84s" begin="-0.93s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#8b5cf6" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff">SOL</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Solana</text>
+  <g transform="translate(116 243)">
+    <animateTransform attributeName="transform" type="translate" values="116 243;116 236;116 243" dur="2.89s" begin="-0.63s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#0175c2" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">D</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Dart</text>
   </g>
-  <g transform="translate(740 132)">
-    <animateTransform attributeName="transform" type="translate" values="740 132;740 124;740 132" dur="3.01s" begin="-1.24s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#dea584" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#252525">R</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Rust</text>
+  <g transform="translate(224 243)">
+    <animateTransform attributeName="transform" type="translate" values="224 243;224 236;224 243" dur="3.06s" begin="-0.67s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#8b5cf6" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">SOL</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Solana</text>
   </g>
-  <g transform="translate(831 132)">
-    <animateTransform attributeName="transform" type="translate" values="831 132;831 124;831 132" dur="3.18s" begin="-1.55s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#f59e0b" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#241500">W3</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Web3 Wallets</text>
+  <g transform="translate(332 243)">
+    <animateTransform attributeName="transform" type="translate" values="332 243;332 236;332 243" dur="2.43s" begin="-0.70s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#dea584" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#252525">R</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Rust</text>
   </g>
-  <g transform="translate(12 248)">
-    <animateTransform attributeName="transform" type="translate" values="12 248;12 240;12 248" dur="2.50s" begin="-1.86s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#ab9ff2" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#20143f">P</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Phantom</text>
+  <g transform="translate(440 243)">
+    <animateTransform attributeName="transform" type="translate" values="440 243;440 236;440 243" dur="2.60s" begin="-0.74s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#f59e0b" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#241500">W3</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Web3 Wallets</text>
   </g>
-  <g transform="translate(103 248)">
-    <animateTransform attributeName="transform" type="translate" values="103 248;103 240;103 248" dur="2.67s" begin="0.00s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#fc8c43" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#2b1609">S</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Solflare</text>
+  <g transform="translate(548 243)">
+    <animateTransform attributeName="transform" type="translate" values="548 243;548 236;548 243" dur="2.77s" begin="-0.78s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#ab9ff2" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#20143f">PH</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Phantom</text>
   </g>
-  <g transform="translate(194 248)">
-    <animateTransform attributeName="transform" type="translate" values="194 248;194 240;194 248" dur="2.84s" begin="-0.31s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#d97757" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">CC</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Claude Code</text>
+  <g transform="translate(656 243)">
+    <animateTransform attributeName="transform" type="translate" values="656 243;656 236;656 243" dur="2.94s" begin="-0.81s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#fc8c43" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#2b1609">SF</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Solflare</text>
   </g>
-  <g transform="translate(285 248)">
-    <animateTransform attributeName="transform" type="translate" values="285 248;285 240;285 248" dur="3.01s" begin="-0.62s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#10a37f" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff">Cdx</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">OpenAI Codex</text>
+  <g transform="translate(764 243)">
+    <animateTransform attributeName="transform" type="translate" values="764 243;764 236;764 243" dur="3.11s" begin="-0.85s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#d97757" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">CC</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Claude Code</text>
   </g>
-  <g transform="translate(376 248)">
-    <animateTransform attributeName="transform" type="translate" values="376 248;376 240;376 248" dur="3.18s" begin="-0.93s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#24292f" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff">Cop</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">GitHub Copilot</text>
+  <g transform="translate(8 343)">
+    <animateTransform attributeName="transform" type="translate" values="8 343;8 336;8 343" dur="2.48s" begin="-0.89s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#10a37f" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">CDX</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">OpenAI Codex</text>
   </g>
-  <g transform="translate(467 248)">
-    <animateTransform attributeName="transform" type="translate" values="467 248;467 240;467 248" dur="2.50s" begin="-1.24s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#4169e1" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">PG</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">PostgreSQL</text>
+  <g transform="translate(116 343)">
+    <animateTransform attributeName="transform" type="translate" values="116 343;116 336;116 343" dur="2.65s" begin="-0.03s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#24292f" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">COP</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">GitHub Copilot</text>
   </g>
-  <g transform="translate(558 248)">
-    <animateTransform attributeName="transform" type="translate" values="558 248;558 240;558 248" dur="2.67s" begin="-1.55s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#00758f" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff">SQL</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">MySQL</text>
+  <g transform="translate(224 343)">
+    <animateTransform attributeName="transform" type="translate" values="224 343;224 336;224 343" dur="2.82s" begin="-0.06s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#4169e1" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">PG</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">PostgreSQL</text>
   </g>
-  <g transform="translate(649 248)">
-    <animateTransform attributeName="transform" type="translate" values="649 248;649 240;649 248" dur="2.84s" begin="-1.86s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#f05032" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">G</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Git</text>
+  <g transform="translate(332 343)">
+    <animateTransform attributeName="transform" type="translate" values="332 343;332 336;332 343" dur="2.99s" begin="-0.10s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#00758f" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">SQL</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">MySQL</text>
   </g>
-  <g transform="translate(740 248)">
-    <animateTransform attributeName="transform" type="translate" values="740 248;740 240;740 248" dur="3.01s" begin="0.00s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#24292f" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">GH</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">GitHub</text>
+  <g transform="translate(440 343)">
+    <animateTransform attributeName="transform" type="translate" values="440 343;440 336;440 343" dur="3.16s" begin="-0.14s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#ff8a00" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#fff">RTDB</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Firebase RTDB</text>
   </g>
-  <g transform="translate(831 248)">
-    <animateTransform attributeName="transform" type="translate" values="831 248;831 240;831 248" dur="2.84s" begin="-.5s" repeatCount="indefinite" />
-    <rect x="15" y="0" width="48" height="48" rx="14" fill="#ff8a00" />
-    <text x="39" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#ffffff">RTDB</text>
-    <text x="39" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9.4" fill="#d5deec">Firebase RTDB</text>
+  <g transform="translate(548 343)">
+    <animateTransform attributeName="transform" type="translate" values="548 343;548 336;548 343" dur="2.53s" begin="-0.17s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#f05032" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">G</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">Git</text>
+  </g>
+  <g transform="translate(656 343)">
+    <animateTransform attributeName="transform" type="translate" values="656 343;656 336;656 343" dur="2.70s" begin="-0.21s" repeatCount="indefinite" />
+    <rect x="29" y="0" width="48" height="48" rx="14" fill="#24292f" />
+    <text x="53" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">GH</text>
+    <text x="53" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#d4d4d8">GitHub</text>
   </g>
 </svg>

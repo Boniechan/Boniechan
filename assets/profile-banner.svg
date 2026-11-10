@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title">
+  <title id="title">Marvin Bonalos developer portfolio banner with animated code terminal</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#09090b" />
+      <stop offset=".55" stop-color="#11111b" />
+      <stop offset="1" stop-color="#17153a" />
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#6366f1" stop-opacity=".32" />
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#6366f1" />
+      <stop offset="1" stop-color="#a78bfa" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#background)" />
+  <ellipse cx="970" cy="95" rx="360" ry="250" fill="url(#glow)" />
+  <g opacity=".16" fill="#818cf8" font-family="monospace" font-size="13">
+    <text x="44" y="48">const build = async () =&gt; {</text>
+    <text x="84" y="74">await ship(ideas);</text>
+    <text x="44" y="100">};</text>
+    <text x="1000" y="270">0110 1010 0101</text>
+    <text x="920" y="300">return new Future();</text>
+  </g>
+  <g transform="translate(672 40)">
+    <rect width="478" height="260" rx="16" fill="#0d0d12" fill-opacity=".88" stroke="#3f3f5c" />
+    <path d="M0 42h478" stroke="#3f3f5c" />
+    <circle cx="23" cy="21" r="5" fill="#fb7185" />
+    <circle cx="42" cy="21" r="5" fill="#fbbf24" />
+    <circle cx="61" cy="21" r="5" fill="#34d399" />
+    <text x="88" y="25" fill="#a1a1aa" font-family="'JetBrains Mono',monospace" font-size="11">marvin.ts — portfolio</text>
+    <g font-family="'JetBrains Mono',monospace" font-size="13">
+      <text x="24" y="76" fill="#71717a">01</text><text x="54" y="76" fill="#c4b5fd">const</text><text x="101" y="76" fill="#e4e4e7"> marvin = {</text>
+      <text x="24" y="106" fill="#71717a">02</text><text x="72" y="106" fill="#93c5fd">focus</text><text x="116" y="106" fill="#e4e4e7">: [</text><text x="140" y="106" fill="#86efac">"web"</text><text x="186" y="106" fill="#e4e4e7">,</text>
+      <text x="72" y="132" fill="#86efac">"mobile"</text><text x="143" y="132" fill="#e4e4e7">,</text><text x="158" y="132" fill="#86efac">"web3"</text><text x="215" y="132" fill="#e4e4e7">],</text>
+      <text x="24" y="162" fill="#71717a">03</text><text x="72" y="162" fill="#93c5fd">stack</text><text x="116" y="162" fill="#e4e4e7">: [</text><text x="140" y="162" fill="#fcd34d">"React"</text><text x="197" y="162" fill="#e4e4e7">,</text>
+      <text x="72" y="188" fill="#fcd34d">"Node.js"</text><text x="148" y="188" fill="#e4e4e7">,</text><text x="163" y="188" fill="#fcd34d">"Solana"</text><text x="224" y="188" fill="#e4e4e7">],</text>
+      <text x="24" y="218" fill="#71717a">04</text><text x="54" y="218" fill="#e4e4e7">};</text>
+    </g>
+    <rect x="54" y="234" width="8" height="15" rx="1" fill="#818cf8">
+      <animate attributeName="opacity" values="1;.2;1" dur="1.1s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(72 208)">
+    <rect width="116" height="34" rx="17" fill="#312e81" fill-opacity=".52" stroke="#6366f1" stroke-opacity=".55" />
+    <text x="58" y="22" text-anchor="middle" fill="#c7d2fe" font-family="'JetBrains Mono',monospace" font-size="12">React</text>
+    <animateTransform attributeName="transform" type="translate" values="72 208;72 201;72 208" dur="3s" repeatCount="indefinite" />
+  </g>
+  <g transform="translate(206 208)">
+    <rect width="116" height="34" rx="17" fill="#312e81" fill-opacity=".52" stroke="#8b5cf6" stroke-opacity=".55" />
+    <text x="58" y="22" text-anchor="middle" fill="#ddd6fe" font-family="'JetBrains Mono',monospace" font-size="12">Node.js</text>
+    <animateTransform attributeName="transform" type="translate" values="206 208;206 200;206 208" dur="3.4s" begin="-.7s" repeatCount="indefinite" />
+  </g>
+  <g transform="translate(340 208)">
+    <rect width="116" height="34" rx="17" fill="#312e81" fill-opacity=".52" stroke="#a78bfa" stroke-opacity=".55" />
+    <text x="58" y="22" text-anchor="middle" fill="#ddd6fe" font-family="'JetBrains Mono',monospace" font-size="12">Solana</text>
+    <animateTransform attributeName="transform" type="translate" values="340 208;340 201;340 208" dur="3.2s" begin="-1.2s" repeatCount="indefinite" />
+  </g>
+  <path d="M72 274h440" stroke="url(#accent)" stroke-opacity=".65" stroke-width="2" />
+</svg>
