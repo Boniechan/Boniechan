@@ -36,12 +36,12 @@ Building practical web, mobile, and desktop experiences — from polished interf
 ### Floating skill logos
 
 <p>
-  <img src="./assets/skills-float.svg" alt="Floating logos for JavaScript, TypeScript, C sharp, Dart, Rust, React, Node.js, Flutter, Solana, and .NET" />
+  <img src="./assets/skills-float.svg" alt="Floating logos for every skill listed in my portfolio" />
 </p>
 
 ### Tools & technologies
 
-<sub>React · React Native · Node.js · Express · REST APIs · Expo · Flutter · WPF · .NET · Solana · Firebase · Supabase · PostgreSQL · MySQL · Git</sub>
+<sub>React.js · React Native · HTML · CSS · Tailwind CSS · WPF · Vite · Node.js · Express.js · REST APIs · Firebase · Firebase Realtime Database · Supabase · C# .NET Core · Expo · Flutter · Solana · Rust · Web3 Wallet Integration (Phantom, Solflare) · Claude Code · OpenAI Codex · GitHub Copilot · PostgreSQL · MySQL · Git · GitHub</sub>
 
 ### Currently exploring
 
