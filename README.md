@@ -124,7 +124,7 @@ PostgreSQL · MySQL · Firebase Realtime Database
       Backend project work focused on Node.js and Express REST APIs, TypeScript, and Solana wallet integrations. The portfolio marks this project as inactive.<br /><br />
       <strong>Stack:</strong> Node.js · Express.js · TypeScript · React.js · Solana · REST APIs · Web3.js<br /><br />
       <strong>Features:</strong> API endpoints for catalog and order flows · Phantom and Solflare wallet verification · inventory and order-state handling · frontend/backend integration.<br /><br />
-      <sub>Repository and live demo links are not listed in the portfolio.</sub>
+      <sub>Inactive</sub>
     </td>
   </tr>
 </table>
