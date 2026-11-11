@@ -158,7 +158,11 @@ These cards load live public data for [@Boniechan](https://github.com/Boniechan)
 
 ### Contribution calendar
 
-<div style="background-color: #000000; padding: 12px; border-radius: 8px;">\n\n<img src="https://ghchart.rshah.org/00c853/Boniechan" alt="GitHub contribution calendar for Boniechan" width="95%" />\n\n</div>
+<div style="background-color: #000000; padding: 12px; border-radius: 8px;">
+
+<img src="https://ghchart.rshah.org/00c853/Boniechan" alt="GitHub contribution calendar for Boniechan" width="95%" />
+
+</div>
 
 </div>
 
